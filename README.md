@@ -8,4 +8,4 @@
 
 
 Podemos poner incluso imágenes!  
-![Imagen de una rana](/github-light/assets/images/frog100x100.jpg)	
+![Image](/github-light/assets/images/frog100x100.jpg)	
